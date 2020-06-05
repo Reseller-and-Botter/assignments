@@ -1,0 +1,3 @@
+import sqlite3
+
+club_ytd = SELECT COUNT(hours), YEAR(2020) FROM service,events;
